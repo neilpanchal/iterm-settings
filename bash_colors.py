@@ -1,3 +1,5 @@
+# Source - http://askubuntu.com/a/27318
+
 #!/usr/bin/env python
 import sys
 terse = "-t" in sys.argv[1:] or "--terse" in sys.argv[1:]
